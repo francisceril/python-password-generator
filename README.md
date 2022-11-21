@@ -2,4 +2,4 @@
 
 ## Usage
 
-$ genpass -l/--length 8
+$ genpass -l 8
